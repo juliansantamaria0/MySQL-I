@@ -88,7 +88,7 @@ CREATE TABLE estudiantes (
 
 ## 📅 Días 3 y 4 – Tarea
 
-📄 Archivo: [Muertes accidentales en Colombia](https://drive.google.com/file/d/1dXc__1R4SBbbxOeQqi7WXYBdSGRGoe8w/view?usp=drivesdk)
+📄 Archivo: [Muertes accidentales en Colombia](https://drive.google.com/file/d/1f9kFjnoszlrCmxJLbcPjWZtBpnHvuJRM/view?usp=drivesdk)
 Usa esta base de datos para practicar consultas y permisos.
 
 ---
