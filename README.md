@@ -11,7 +11,7 @@
 
 * * *
 
-**CAMPUSLANDS – APOLO – RUTA JAVA – FLORIDABLANCA – 2024** 
+**CAMPUSLANDS – APOLO – RUTA JAVA – FLORIDABLANCA – 2025** 
 
 
 ## 📅 Día 1 – Comandos Básicos de MySQL
